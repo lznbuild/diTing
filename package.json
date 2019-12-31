@@ -1,6 +1,6 @@
 {
   "name": "diting",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "dist/dTing.js",
   "description":"简单的前端错误监控库",
   "license": "MIT",
