@@ -1,7 +1,7 @@
 {
   "name": "diting",
   "version": "1.0.6",
-  "main": "dist/feError.js",
+  "main": "dist/dTing.js",
   "description":"简单的前端错误监控库",
   "license": "MIT",
   "devDependencies": {
@@ -14,6 +14,5 @@
   },
   "scripts": {
     "build": "webpack --config ./config/webpack.config.js"
-  },
-  "files": ["dist"]
+  }
 }

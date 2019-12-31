@@ -5,8 +5,8 @@ module.exports={
     entry:"./src/index.js",
     output:{
     path:path.resolve(__dirname,"../","dist"),
-    filename:"feError.js",
-    library:"feError",// 在全局变量中增加一个library变量
+    filename:"dTing.js",
+    library:"dting",// 在全局变量中增加一个library变量
     libraryTarget:"umd"
     },
     module:{
